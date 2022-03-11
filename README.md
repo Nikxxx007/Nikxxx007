@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 [<img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>][linkedin]
 
-[<img salign="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/>][instagram]
+[<img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/>][instagram]
 
-[<img salign="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
+[<img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
 
 [instagram]: https://www.instagram.com/_n_nick_n_/
 [linkedin]: https://www.linkedin.com/in/nikxxx007/
