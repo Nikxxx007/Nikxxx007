@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [<img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
 
 [instagram]: https://www.instagram.com/_n_nick_n_/
-[linkedin]: www.linkedin.com/in/nefed-nikita
+[linkedin]: https://www.linkedin.com/in/nefed-nikita
 [telegram]: https://t.me/nikxxx007
