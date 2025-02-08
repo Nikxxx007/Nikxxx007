@@ -30,4 +30,4 @@ Beyond development, I'm passionate about **software architecture, best coding pr
 Aside from coding, I enjoy **film and digital photography**, capturing moments and experimenting with different styles.  
 
 ## 📬 Get in Touch  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_n_nick_n_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nefed-nikita) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nick.nefed@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_n_nick_n_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nefed-nikita) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nick.nefed@gmail.com) 
