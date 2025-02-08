@@ -1,28 +1,33 @@
-### Hi there 👋
+# 👋 Hey there, I'm Nikita  
 
-<!--
-**Nikxxx007/Nikxxx007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a Full-Stack Developer with over **3 years** of experience, specializing in **Node.js, React, and Next.js**. Currently, I'm deepening my expertise in **NestJS** to build scalable and maintainable backend systems.  
 
-Here are some ideas to get you started:
+Beyond development, I'm passionate about **software architecture, best coding practices, and critical thinking in programming**. I love solving complex problems and constantly improving my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+### **Frontend:**  
+- ⚛️ React.js | Next.js  
+- 🎨 Tailwind CSS | Styled Components  
+- ⚡ TypeScript | JavaScript  
 
-### Connect with me:
+### **Backend:**  
+- 🚀 Node.js | NestJS  
+- 🛢 PostgreSQL | MongoDB  
+- 🔥 TypeORM | Prisma  
 
-[<img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>][linkedin]
+### **DevOps & Tools:**  
+- 🐳 Docker | CI/CD  
+- ☁️ AWS (Basics)  
+- 📜 Git | GitHub Actions  
 
-[<img align="left" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/>][instagram]
+## 📚 Currently Learning  
+- 🏗 Advanced NestJS concepts  
+- 📦 Microservices architecture  
+- 🚀 Performance optimization in full-stack applications  
 
-[<img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][telegram]
+## 📸 Other Interests  
+Aside from coding, I enjoy **film and digital photography**, capturing moments and experimenting with different styles.  
 
-[instagram]: https://www.instagram.com/_n_nick_n_/
-[linkedin]: https://www.linkedin.com/in/nefed-nikita
-[telegram]: https://t.me/nikxxx007
+## 📬 Get in Touch  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_n_nick_n_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nefed-nikita) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nick.nefed@gmail.com) 
