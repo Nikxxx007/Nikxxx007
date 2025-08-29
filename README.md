@@ -33,7 +33,6 @@ I put strong emphasis on **code quality, architectural decisions, and performanc
 - 🗄 Optimized **PostgreSQL queries**, achieving up to **3x faster** data retrieval.  
 - 🤖 Built an **AI-powered support bot** and a **Telegram automation bot**, reducing manual workload and improving response times.  
 - 🚀 Delivered a new **Events section** that increased user conversion by **15%**.  
-- 📱 Published a **React Native app** to the App Store for a medical information system.  
 
 ## 📸 Other Interests  
 Aside from coding, I enjoy **film and digital photography**, capturing moments and experimenting with different styles.  
