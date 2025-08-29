@@ -1,30 +1,39 @@
 # 👋 Hey there, I'm Nikita  
 
 ## 🚀 About Me  
-I'm a Full-Stack Developer with over **3 years** of experience, specializing in **Node.js, React, and Next.js**. Currently, I'm deepening my expertise in **NestJS** to build scalable and maintainable backend systems.  
+I'm a **Full-Stack Developer with 4+ years of experience**, working with modern technologies to build scalable, high-performance applications. On the frontend I specialize in **React & Next.js**, while on the backend I focus on **Node.js, NestJS, and Go**.  
 
-Beyond development, I'm passionate about **software architecture, best coding practices, and critical thinking in programming**. I love solving complex problems and constantly improving my skills.  
+I have hands-on experience designing robust **server-side architecture**, building APIs (**REST, GraphQL, gRPC**), working with relational & non-relational databases, and setting up **CI/CD pipelines**.  
+
+I put strong emphasis on **code quality, architectural decisions, and performance** — continuously looking for ways to improve systems and processes.  
 
 ## 💻 Tech Stack  
-### **Frontend:**  
+### **Frontend**  
 - ⚛️ React.js | Next.js  
-- 🎨 Tailwind CSS | Styled Components  
-- ⚡ TypeScript | JavaScript  
+- 🎨 TypeScript | SCSS | Tailwind CSS  
+- 📱 React Native  
 
-### **Backend:**  
-- 🚀 Node.js | NestJS  
-- 🛢 PostgreSQL | MongoDB  
-- 🔥 TypeORM | Prisma  
+### **Backend**  
+- 🚀 Node.js | NestJS | Express | Golang | Python (Flask)  
+- 🔗 REST | GraphQL | gRPC | WebSocket  
+- 🔒 JWT | OAuth2  
 
-### **DevOps & Tools:**  
-- 🐳 Docker | CI/CD  
-- ☁️ AWS (Basics)  
-- 📜 Git | GitHub Actions  
+### **Databases & DevOps**  
+- 🛢 PostgreSQL | MongoDB | MSSQL | Redis  
+- 🐇 RabbitMQ | Elasticsearch  
+- 🐳 Docker | CI/CD | GitHub Actions | Swagger  
 
-## 📚 Currently Learning  
-- 🏗 Advanced NestJS concepts  
-- 📦 Microservices architecture  
-- 🚀 Performance optimization in full-stack applications  
+## 📚 Currently Exploring  
+- 🏗 Microservices architecture & distributed systems  
+- ⚡ Performance optimization & scaling  
+- 🤖 AI-powered tools integration into products  
+
+## 🏆 Recent Highlights  
+- ⚡ Improved **microfrontend build times by 20–50%** at Centra, optimizing CI/CD pipelines and infrastructure load.  
+- 🗄 Optimized **PostgreSQL queries**, achieving up to **3x faster** data retrieval.  
+- 🤖 Built an **AI-powered support bot** and a **Telegram automation bot**, reducing manual workload and improving response times.  
+- 🚀 Delivered a new **Events section** that increased user conversion by **15%**.  
+- 📱 Published a **React Native app** to the App Store for a medical information system.  
 
 ## 📸 Other Interests  
 Aside from coding, I enjoy **film and digital photography**, capturing moments and experimenting with different styles.  
